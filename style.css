@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(48, 14, 14);
+    color:rgb(168, 33, 33)
+    font-family: 'Trebuchet Ms', 'Comic Sans MS', cursive;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    padding: 6px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    border-bottom: double 5px rgb(168, 33, 33);
+    text-align: center;
+}
+
+p  {
+    font-size: 20px;
+    text-align: center;
+}
+
+iframe,video {
+    display: block;
+    margin:0 auto;
+    width: 80%;
+    max-width: 700px;
+}
